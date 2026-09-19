@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme {
+  --spacing-image: 230px;
+  --text-numbers: 40px;
+
+  --radius-xs: 12px;
+  --radius-xl: 20px;
+
+  --blur-custom: 20px;
+}
